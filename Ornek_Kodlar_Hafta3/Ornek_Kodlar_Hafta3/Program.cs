@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace OrnekKodlarHafta3
+namespace Ornek_Kodlar_Hafta3
 {
     class Program
     {
