@@ -19,7 +19,6 @@ namespace ConsoleApp8
             double doubleilk = Convert.ToDouble(ilksayi);
             double doubleikinci = Convert.ToDouble(ikincisayi);
             Console.WriteLine("Sayıların toplamı: " + (ilksayint + ikincisayint) + " Sayıların Çarpımı: " + (ilksayint * ikincisayint) + " Sayıların ortalaması: " + ((doubleilk + doubleikinci) / 2));
-            int a = 1;
                 }
     }
 }
