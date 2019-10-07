@@ -17,8 +17,7 @@ namespace Ornek_Kodlar_Hafta1
             int a = 5;
             int b = 3;
 
-            int c = a + b;
-            Console.WriteLine("a+b= " + c);
+            Console.WriteLine("a+b= " + (a + b));
         }
     }
 }
