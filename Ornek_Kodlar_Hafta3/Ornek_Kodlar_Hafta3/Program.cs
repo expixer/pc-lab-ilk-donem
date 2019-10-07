@@ -10,25 +10,26 @@ namespace Ornek_Kodlar_Hafta3
     {
         static void Main(string[] args)
         {
-            float a = 530.52f;
-            double b;
+            float f = 530.52f;
+            double d;
             checked
             {
-                b = (double)a;
+                d = (double)f;
             }
-            Console.WriteLine(b);
+            Console.WriteLine(d);
 
-            string abc = "20";
-            int def = Convert.ToInt32(abc);
-            int xyz = def + 5;
-            Console.WriteLine(xyz);
+            string yazi = "20";
+            int sayi = Convert.ToInt32(yazi);
+            int toplama = sayi + 5;
+            Console.WriteLine(toplama);
 
-            int k = 5;
-            int j = 3;
-            string s1 = k.ToString();
-            string s2 = j.ToString();
+            int sayi1 = 5;
+            int sayi2 = 3;
+            Console.WriteLine(sayi1 + sayi2);
 
-            Console.WriteLine(k + j);
+            string s1 = sayi1.ToString();
+            string s2 = sayi2.ToString();
+
             Console.WriteLine(s1 + s2);
         }
     }
