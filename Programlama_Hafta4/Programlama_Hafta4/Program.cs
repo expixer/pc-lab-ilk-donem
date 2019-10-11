@@ -10,7 +10,7 @@ namespace Programlama_Hafta4
     {
         static void Main(string[] args)
         {
-            Type t;
+            Type t; //a
             int i = 123;
             float f = 23.45F;
 
