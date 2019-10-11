@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C0D70CB2-FA64-4AAC-A634-6855F6A7FE40}</ProjectGuid>
+    <ProjectGuid>{03B5083C-6892-41A3-9346-EA1D3471C46A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ornek_Kodlar_Hafta3</RootNamespace>
-    <AssemblyName>Ornek_Kodlar_Hafta3</AssemblyName>
+    <RootNamespace>Ornek_Kodlar_Hafta4</RootNamespace>
+    <AssemblyName>Ornek_Kodlar_Hafta4</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
