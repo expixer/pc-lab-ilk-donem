@@ -11,7 +11,7 @@ namespace Programlama_Hafta4
         static void Main(string[] args)
         {
             Type t;
-            int i = 123;
+            int i = 123; //deneme
             float f = 23.45F;
 
             t = typeof(int);
