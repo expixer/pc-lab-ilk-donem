@@ -10,15 +10,45 @@ namespace Ornek_Kodlar_Hafta5
     {
         static void Main(string[] args)
         {
-            int yeni = Convert.ToInt32(Console.ReadLine());
-            int kargoucreti = 10;
-            if (yeni > 100)
+            /*  int fiyat = Convert.ToInt32(Console.ReadLine());
+              int kargoucreti = 10;
+              if (fiyat >= 100)
+              {
+                  Console.WriteLine("Ödeyeceğiniz Ücret " + fiyat);
+              }
+              else if(fiyat>=50)
+              {
+                  Console.WriteLine("Ödeyeceğiniz Ücret " + (fiyat + kargoucreti+ (-7)));
+              }
+              else if (fiyat >= 30)
+              {
+                  Console.WriteLine("Ödeyeceğiniz Ücret " + (fiyat + kargoucreti+ (-5)));
+              }
+              else
+              {
+                  Console.WriteLine("Ödeyeceğiniz Ücret " + (fiyat + kargoucreti + (-3)));
+              } */
+
+            int not=Convert.ToInt32(Console.ReadLine());
+            if (not >= 90)
             {
-                Console.WriteLine("Ödeyeceğiniz Ücret " + yeni);
+                Console.WriteLine("Notunuz AA geçtiniz");
+            }
+            else if (not >= 80)
+            {
+                Console.WriteLine("Notunuz BB geçtiniz");
+            }
+            else if (not >= 70)
+            {
+                Console.WriteLine("Notunuz CC geçtiniz");
+            }
+            else if (not >= 60)
+            {
+                Console.WriteLine("Notunuz DD geçtiniz");
             }
             else
             {
-                Console.WriteLine("Ödeyeceğiniz Ücret " + (yeni + kargoucreti));
+                Console.WriteLine("Notunuz FF kaldınız");
             }
         }
     }
