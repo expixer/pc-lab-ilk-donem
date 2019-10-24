@@ -22,6 +22,9 @@ namespace Programlama_Hafta6
             int sayi3 = Convert.ToInt32(sayi % sayi2);
             Console.WriteLine(sayi3);*/
 
+
+
+
             /*  string s;
               int a;
               Console.Write("Kaçıncı Sınıftasınız: ");
@@ -38,6 +41,9 @@ namespace Programlama_Hafta6
                   case (4): Console.WriteLine("Siz okulu uzatmışsınız");
                       break;
               }*/
+
+
+
             /*   int a = 1, b = 1;
                switch (a) {
                    case 1: Console.WriteLine("Case 1-a");
@@ -47,6 +53,10 @@ namespace Programlama_Hafta6
                        break;
                    default:
                        break;*/
+
+
+
+
             /*  int sayi1, sayi2;
               string islem;
               Console.Write("Birinci sayıyı giriniz: ");
@@ -86,6 +96,10 @@ namespace Programlama_Hafta6
 
                       break;
               }*/
+
+
+
+
             /*  int i, toplam = 0;
               for (i = 1; i <= 3; i++)
               {
@@ -110,6 +124,11 @@ namespace Programlama_Hafta6
            Console.Write("{0} ", i);
            i += a;
        }*/
+
+
+
+
+
             //BUNU ANLAMADIM
             /*
                  int sayi;
@@ -119,6 +138,10 @@ namespace Programlama_Hafta6
                  {
                      Console.Write("{0}", (sayi >> bit - 1) & 1);
                  }*/
+
+
+
+
             int adet = 0, toplam = 0;
             for (int i = 1; i <= 1000; i++)
             {
