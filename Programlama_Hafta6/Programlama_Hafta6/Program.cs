@@ -86,15 +86,51 @@ namespace Programlama_Hafta6
 
                       break;
               }*/
-            int i, toplam = 0;
-            for (i = 1; i <= 3; i++)
+            /*  int i, toplam = 0;
+              for (i = 1; i <= 3; i++)
+              {
+                  toplam = toplam + i;
+              }
+              Console.WriteLine("Toplam={0}", toplam);
+              Console.WriteLine("i={0}", i);*/
+            /* char ch;
+             int i = 0, j = 0, k = 0;
+             for (ch = Convert.ToChar(Console.ReadLine());
+             ch != 'q';
+             ch = Convert.ToChar(Console.ReadLine()))
+                 Console.WriteLine("\n");
+                 */
+            /*
+       int i = 0, a, n;
+       Console.Write("Bir sayı girin: ");
+       n = Convert.ToInt32(Console.ReadLine());
+       Console.Write("Artım miktarı: ");
+       a = Convert.ToInt32(Console.ReadLine());
+       for (; i < n;) {
+           Console.Write("{0} ", i);
+           i += a;
+       }*/
+            //BUNU ANLAMADIM
+            /*
+                 int sayi;
+                 Console.Write("Bir tam sayı giriniz: ");
+                 sayi = Convert.ToInt32(Console.ReadLine());
+                 for (int bit = 32; bit >= 1; bit--)
+                 {
+                     Console.Write("{0}", (sayi >> bit - 1) & 1);
+                 }*/
+            int adet = 0, toplam = 0;
+            for (int i = 1; i <= 1000; i++)
             {
-                toplam = toplam + i;
+
+                if ((i % 5 == 0) && (i % 7 != 0))
+                {
+                    toplam = toplam + i;
+                    adet++;
+                }
             }
+            Console.WriteLine("{0} sayı bulundu", adet);
             Console.WriteLine("Toplam={0}", toplam);
-            Console.WriteLine("i={0}", i);
-
-
         }
 
     }
