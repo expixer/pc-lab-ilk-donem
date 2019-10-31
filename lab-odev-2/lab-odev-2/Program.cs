@@ -18,7 +18,6 @@ namespace lab_odev_2
                 Console.Write("Dönüştürmek istediğiniz TL mikatrını giriniz(Kur düzenlemek için 0'a basınız): ");
                 double lira = Convert.ToDouble(Console.ReadLine());
 
-
                 if (lira == 0) {
                     Console.WriteLine("Dolar kurunu değiştirmek için 1'e Euro kurunu değiştirmek içni 2'ye basınız: ");
                     kursec= Convert.ToInt32(Console.ReadLine());
