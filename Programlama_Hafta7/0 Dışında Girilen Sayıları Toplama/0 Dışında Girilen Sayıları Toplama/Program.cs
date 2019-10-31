@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace hafta6devam2
+namespace _0_Dışında_Girilen_Sayıları_Toplama
 {
     class Program
     {
@@ -26,7 +26,7 @@ namespace hafta6devam2
                 toplam += sayi;
                 BirOncekiSayi = sayi;
             }
-            Console.WriteLine("Toplam{0} ", toplam);
+            Console.WriteLine("Toplam {0} ", toplam);
         }
     }
 }

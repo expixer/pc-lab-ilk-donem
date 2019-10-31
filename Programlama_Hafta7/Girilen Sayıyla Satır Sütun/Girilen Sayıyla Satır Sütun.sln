@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hafta6devam", "hafta6devam\hafta6devam.csproj", "{001656BC-C270-457E-AFD1-3B1D14A3F7E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Girilen Sayıyla Satır Sütun", "Girilen Sayıyla Satır Sütun\Girilen Sayıyla Satır Sütun.csproj", "{6E717A32-8189-44D5-A523-DC9831FD94AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{001656BC-C270-457E-AFD1-3B1D14A3F7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{001656BC-C270-457E-AFD1-3B1D14A3F7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{001656BC-C270-457E-AFD1-3B1D14A3F7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{001656BC-C270-457E-AFD1-3B1D14A3F7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E717A32-8189-44D5-A523-DC9831FD94AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E717A32-8189-44D5-A523-DC9831FD94AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E717A32-8189-44D5-A523-DC9831FD94AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E717A32-8189-44D5-A523-DC9831FD94AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {929F55C3-2DAF-4702-8E05-5C9063C890D0}
+		SolutionGuid = {E1810854-ABB5-4079-BC43-454D71A68499}
 	EndGlobalSection
 EndGlobal

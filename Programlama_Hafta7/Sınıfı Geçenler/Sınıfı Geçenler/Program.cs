@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace hafta6devam
+namespace Sınıfı_Geçenler
 {
     class Program
     {
         static void Main(string[] args)
         {
-
             int basarisiz = 0, orta = 0, basarili = 0, i, ogrenci_sayisi, puan;
             Console.WriteLine("Öğrenci sayısını giriniz: ");
             ogrenci_sayisi = Convert.ToInt32(Console.ReadLine());
@@ -43,7 +42,6 @@ namespace hafta6devam
             }
             Console.WriteLine("{0} öğrenciden {1} öğrenci başarısız, " + "{2} öğrenci orta ve {3} öğrenci başarılı olmuştur",
                 ogrenci_sayisi, basarisiz, orta, basarili);
-
         }
     }
 }

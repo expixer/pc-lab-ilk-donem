@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8DA9F50C-8EF1-4E84-99A9-A5D1F1E21F77}</ProjectGuid>
+    <ProjectGuid>{6E717A32-8189-44D5-A523-DC9831FD94AB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>hafta6odev</RootNamespace>
-    <AssemblyName>hafta6odev</AssemblyName>
+    <RootNamespace>Girilen_Sayıyla_Satır_Sütun</RootNamespace>
+    <AssemblyName>Girilen Sayıyla Satır Sütun</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

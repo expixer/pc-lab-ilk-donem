@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{001656BC-C270-457E-AFD1-3B1D14A3F7E3}</ProjectGuid>
+    <ProjectGuid>{93CEC818-10FD-4064-95F4-47AF58F23DFC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>hafta6devam</RootNamespace>
-    <AssemblyName>hafta6devam</AssemblyName>
+    <RootNamespace>Max_Min_Ort_Not_Bulma</RootNamespace>
+    <AssemblyName>Max Min Ort Not Bulma</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

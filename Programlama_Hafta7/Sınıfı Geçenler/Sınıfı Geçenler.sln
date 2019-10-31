@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hafta6odev", "hafta6odev\hafta6odev.csproj", "{8DA9F50C-8EF1-4E84-99A9-A5D1F1E21F77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sınıfı Geçenler", "Sınıfı Geçenler\Sınıfı Geçenler.csproj", "{552B34F2-E5EA-4399-998E-136794A851B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8DA9F50C-8EF1-4E84-99A9-A5D1F1E21F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8DA9F50C-8EF1-4E84-99A9-A5D1F1E21F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8DA9F50C-8EF1-4E84-99A9-A5D1F1E21F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8DA9F50C-8EF1-4E84-99A9-A5D1F1E21F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{552B34F2-E5EA-4399-998E-136794A851B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552B34F2-E5EA-4399-998E-136794A851B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552B34F2-E5EA-4399-998E-136794A851B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552B34F2-E5EA-4399-998E-136794A851B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E2F3B99E-A7A5-49FC-AF9D-AE8D2B4D3F16}
+		SolutionGuid = {6A2E8C69-D8A1-41F2-A4E2-6EAB12EB052A}
 	EndGlobalSection
 EndGlobal
