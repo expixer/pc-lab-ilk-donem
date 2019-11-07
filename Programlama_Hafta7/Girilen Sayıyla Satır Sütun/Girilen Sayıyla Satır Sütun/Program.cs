@@ -10,7 +10,7 @@ namespace Girilen_Sayıyla_Satır_Sütun
     {
         static void Main(string[] args)
         {
-            int satir, sutun;
+            int satir, sutun, j;
             Console.Write("Satır sayısı: ");
             satir = Convert.ToInt32(Console.ReadLine());
             Console.Write("Sutun sayısı: ");
@@ -18,8 +18,7 @@ namespace Girilen_Sayıyla_Satır_Sütun
             Console.WriteLine();
             for (int i = 0; i < satir; i++)
             {
-                for (int j = 0; j < sutun; j++)
-
+                for ( j = 0; j < sutun; j++)
                     Console.Write(i);
                 Console.WriteLine();
 
