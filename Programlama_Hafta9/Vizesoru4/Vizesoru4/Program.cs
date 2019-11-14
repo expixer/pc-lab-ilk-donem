@@ -10,19 +10,18 @@ namespace Vizesoru4
     {
         static void Main(string[] args)
         {
-            int cift, tek;
             int sayi = Convert.ToInt32(Console.ReadLine());
             if (sayi % 2 == 0)
                 for (int i = 1; i <= 50; i++)
                 {
-                    cift = sayi - (i * 2);
-                    Console.WriteLine(cift);
+                    sayi = sayi - 2;
+                    Console.WriteLine(sayi);
                 }
             else
                 for (int j = 1; j <= 50; j++)
                 {
-                    tek = sayi + (j * 2);
-                    Console.WriteLine(tek);
+                    sayi= sayi+2;
+                    Console.WriteLine(sayi);
                 }
         }
 
