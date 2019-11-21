@@ -4,22 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ilk_while
+namespace dowhile_ornek
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int i = 2;
-            while (i < 1000)
-            {
-                Console.Write(i + " ");
-                i = i * i;
-
-            }
-        }
-
-
+            int x = 20;
+            do {
+               x = x - 3;
+            } while(x > 0);
+            Console.Write("{0} ", x);
+            
         }
     }
 }
