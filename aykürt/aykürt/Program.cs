@@ -12,6 +12,7 @@ namespace aykürt
         {
             int sayac=0;
             int[] sayi = { 1, 2, 3, 4, 5, 3, 3, 3, 5, 4 };
+            Console.Write("Bi sayı giriniz: ");
             int kontrol = Convert.ToInt32(Console.ReadLine());
             for (int i = 0; i < sayi.Length; i++)
                 if (kontrol == sayi[i])
