@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "girilen_kelimeyi_istendigi_kadar_yaz", "girilen_kelimeyi_istendigi_kadar_yaz\girilen_kelimeyi_istendigi_kadar_yaz.csproj", "{9E708B84-4183-414D-AA2B-80DCB9B7F910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E708B84-4183-414D-AA2B-80DCB9B7F910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E708B84-4183-414D-AA2B-80DCB9B7F910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E708B84-4183-414D-AA2B-80DCB9B7F910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E708B84-4183-414D-AA2B-80DCB9B7F910}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
